@@ -4,7 +4,7 @@
 </a>
 
 IT'S HACKING TIME
-<img src="![image](https://github.com/user-attachments/assets/bf2d7199-1a8d-4bd7-a5be-ab763f02190a)
+<img src="https://github.com/user-attachments/assets/bf2d7199-1a8d-4bd7-a5be-ab763f02190a
 "/>
 
 Currently Learning
