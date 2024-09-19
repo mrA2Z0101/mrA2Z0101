@@ -8,6 +8,7 @@
 <a href="https://x.com/A2Z0101">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Twitter-1024.png"/> </a>
 
+## More Info About Me
 ```yaml
 Name: Aaron Zajicek
 
