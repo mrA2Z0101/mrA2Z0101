@@ -4,7 +4,7 @@
 </a>
 
 IT'S HACKING TIME
-<img height="50" src="https://giphy.com/gifs/hacker-115BJle6N2Av0A"/>
+<a <img height="50" src="https://giphy.com/gifs/hacker-115BJle6N2Av0A"/> </a>
 
 Currently Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
