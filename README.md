@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&text=Hello%World!%This%is%Aaron%Zajiceks%ReadMe&animation=blinking&)
+![header](https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&text=Hello%World!&animation=blinking&)
 
 <!--
 **mrA2Z0101/mrA2Z0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
