@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&text=Hello%World!&animation=blinking&)
+<a href="https://www.instagram.com/a.2.z0101/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
 
 ![Aaron Zajicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrA2Z0101&theme=chartreuse-dark&show_icons=true)
+
+
 
 <!--
 **mrA2Z0101/mrA2Z0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
