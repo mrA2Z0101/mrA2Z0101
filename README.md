@@ -5,6 +5,8 @@
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Instagram-1024.png"/> </a>
 <a href="https://www.linkedin.com/in/aaronkeithzajicek/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Linkedin-1024.png"/> </a>
+<a href="https://x.com/A2Z0101">
+  <img height="50" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Twitter-1024.png"/> </a>
 
 IT'S HACKING TIME
 <img src="https://github.com/user-attachments/assets/bf2d7199-1a8d-4bd7-a5be-ab763f02190a
