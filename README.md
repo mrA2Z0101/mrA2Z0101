@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&text=HelloWorld!&animation=blinking&)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&text=HelloWorld!&animation=blinking" />
+</p>
 # Find me on my Socials!
 <p align="left">
 <a href="https://www.instagram.com/a.2.z0101/">
