@@ -52,6 +52,8 @@ Fields_Of_Interest:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+## ReadMe Joke 🙄
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## GitHub Stats
 ![Aaron Zajicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrA2Z0101&theme=chartreuse-dark&show_icons=true)
