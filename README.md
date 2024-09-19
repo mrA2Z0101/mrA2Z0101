@@ -4,7 +4,8 @@
 </a>
 
 IT'S HACKING TIME
-<img src="https://giphy.com/gifs/hacker-115BJle6N2Av0A"/>
+<img src="![image](https://github.com/user-attachments/assets/bf2d7199-1a8d-4bd7-a5be-ab763f02190a)
+"/>
 
 Currently Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
