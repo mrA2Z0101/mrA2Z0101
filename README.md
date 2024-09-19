@@ -3,6 +3,9 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
+IT'S HACKING TIME
+<img height="50" src="https://giphy.com/gifs/hacker-115BJle6N2Av0A"/>
+
 Currently Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
