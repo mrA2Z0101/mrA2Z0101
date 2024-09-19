@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hello_World!&type=venom&animation=blinking&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?text=Hello_World!&type=venom&animation=blinking&theme=merko" />
 </p>
 
 # Find me on my Socials!
