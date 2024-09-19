@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&theme=tokyonight&text=Hello%World!&animation=blinking&)
 
-![Aaron Zajicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrA2Z0101&theme=chartreuse_dark=true)
+![Aaron Zajicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrA2Z0101&theme=chartreuse-dark&show_icons=true)
 
 <!--
 **mrA2Z0101/mrA2Z0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
