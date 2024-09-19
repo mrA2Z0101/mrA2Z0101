@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/a.2.z0101/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Instagram-1024.png"/> </a>
 <a href="https://www.linkedin.com/in/aaronkeithzajicek/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> </a>
+  <img height="50" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Linkedin-1024.png"/> </a>
 
 IT'S HACKING TIME
 <img src="https://github.com/user-attachments/assets/bf2d7199-1a8d-4bd7-a5be-ab763f02190a
