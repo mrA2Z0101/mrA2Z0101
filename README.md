@@ -12,6 +12,31 @@
 ```yaml
 Name: Aaron Zajicek
 
+Education:
+  {
+    Associates of Art - Lonestar College
+    Bachelors in Computer Information Systems *Work in Progress*
+  }
+
+Certifications:
+  {
+    IBM IT Support Professional Certificate
+    Google Cybersecurity Professional Certificate *Work in Progress*
+  }
+
+Fields_Of_Interest:
+  {
+    Cybersecurity:
+      Security Operations Center (SOC)
+      Forensic Analysis
+      Penetration Testing (Ethical Hacking)
+      Network Security
+      Information Security
+
+    Artificial Intelligence:
+      Machine Learning (ML)
+      Generative AI
+  }
 ```
 
 Currently Learning
