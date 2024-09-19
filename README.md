@@ -5,9 +5,9 @@
 # Find me on my Socials!
 <p align="left">
 <a href="https://www.instagram.com/a.2.z0101/">
-  <img height="50" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Instagram-1024.png"/> </a>
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_instagram_media-1024.png"/> </a>
 <a href="https://www.linkedin.com/in/aaronkeithzajicek/">
-  <img height="50" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Linkedin-1024.png"/> </a>
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_linkedin-1024.png"/> </a>
 <a href="https://x.com/A2Z0101">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_twitter_communicaiton-1024.png"/> </a>
 
