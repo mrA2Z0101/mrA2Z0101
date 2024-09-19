@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/aaronkeithzajicek/">
   <img height="50" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Linkedin-1024.png"/> </a>
 <a href="https://x.com/A2Z0101">
-  <img height="50" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Twitter-1024.png"/> </a>
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_twitter_communicaiton-1024.png"/> </a>
 
 ## More Info About Me
 ```yaml
