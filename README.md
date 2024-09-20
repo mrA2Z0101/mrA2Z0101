@@ -6,15 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=00FF00&width=435&lines=Error+404;Welcome+to+Aarons+README" />
 </h1> 
 
-# Find me on my Socials!
-<p align="left">
-<a href="https://www.instagram.com/a.2.z0101/">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_instagram_media-1024.png"/> </a>
-<a href="https://www.linkedin.com/in/aaronkeithzajicek/">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_linkedin-1024.png"/> </a>
-<a href="https://x.com/A2Z0101">
-  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_twitter_communicaiton-1024.png"/> </a>
-
 ## More Info About Me
 ```yaml
 Name: Aaron Zajicek
@@ -45,6 +36,14 @@ Fields_Of_Interest:
       Generative AI
   }
 ```
+# Find me on my Socials!
+<p align="left">
+<a href="https://www.instagram.com/a.2.z0101/">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_instagram_media-1024.png"/> </a>
+<a href="https://www.linkedin.com/in/aaronkeithzajicek/">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_linkedin-1024.png"/> </a>
+<a href="https://x.com/A2Z0101">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-2273/64/social_media_network_online_twitter_communicaiton-1024.png"/> </a>
 
 ## Languages I've Used
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
