@@ -69,9 +69,7 @@ Fields_Of_Interest:
 ## GitHub Stats
 ![Aaron Zajicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrA2Z0101&theme=chartreuse-dark&show_icons=true)
 
-<h1 align="center">
-    <img src= https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFmaXFvMm9haDRwOGlldmR5OTFyNmI4OXkzNm43amJ0YjBvcThpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/200.webp) />
-</h1> 
+![image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFmaXFvMm9haDRwOGlldmR5OTFyNmI4OXkzNm43amJ0YjBvcThpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/200.webp)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=3EFF39&width=435&lines=That%E2%80%99s+all+Folks!)](https://git.io/typing-svg)
 
