@@ -2,6 +2,10 @@
 <img src="https://capsule-render.vercel.app/api?text=Hello_World!&type=venom&animation=blinking&theme=tokyonight" />
 </p>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=00FF00&width=435&lines=Error+404;Welcome+to+Aarons+README)](https://git.io/typing-svg" />
+</h1> 
+
 # Find me on my Socials!
 <p align="left">
 <a href="https://www.instagram.com/a.2.z0101/">
