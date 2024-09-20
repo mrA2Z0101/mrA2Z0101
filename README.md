@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hello+World!&type=venom&animation=blinking&theme=tokyonight" />
+<img src="https://capsule-render.vercel.app/api?text=Hello+World!&type=venom&animation=twinkling&theme=tokyonight" />
 </p>
 
 <h1 align="center">
@@ -44,11 +44,13 @@ Fields_Of_Interest:
   <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://x.com/A2Z0101">
   <img height="50" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a>
+</p>
 
 ## Languages I've Used
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ## Operating Systems
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -66,6 +68,10 @@ Fields_Of_Interest:
 
 ## GitHub Stats
 ![Aaron Zajicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrA2Z0101&theme=chartreuse-dark&show_icons=true)
+
+<h1 align="center">
+    <img src= https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFmaXFvMm9haDRwOGlldmR5OTFyNmI4OXkzNm43amJ0YjBvcThpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/200.webp) />
+</h1> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=3EFF39&width=435&lines=That%E2%80%99s+all+Folks!)](https://git.io/typing-svg)
 
