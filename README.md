@@ -65,9 +65,6 @@ Fields_Of_Interest:
 ## ReadMe Joke 🙄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Tech Meme
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
 ## GitHub Stats
 ![Aaron Zajicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrA2Z0101&theme=chartreuse-dark&show_icons=true)
 
