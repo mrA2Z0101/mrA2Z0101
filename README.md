@@ -51,7 +51,6 @@ Fields_Of_Interest:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
 ## Operating Systems
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -65,6 +64,9 @@ Fields_Of_Interest:
 
 ## ReadMe Joke 🙄
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## Tech Meme
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ## GitHub Stats
 ![Aaron Zajicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrA2Z0101&theme=chartreuse-dark&show_icons=true)
