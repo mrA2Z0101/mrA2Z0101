@@ -44,6 +44,12 @@ Fields_Of_Interest:
   <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <a href="https://x.com/A2Z0101">
   <img height="50" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a>
+<a href="https://stackoverflow.com/users/27415666/a2z0101?tab=profile">
+  <img height="50" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> </a>
+<a href="https://leetcode.com/u/user8137qi/">
+  <img height="50" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
+<a href="https://www.hackerrank.com/profile/mr_aaronz0101">
+  <img height="50" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 </p>
 
 ## 🛠️💻 Languages I've Used 🖥️💡
