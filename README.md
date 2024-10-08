@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+Aarons+README;Cybersecurity;Artificial+Intelligence;Coding" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+Aarons+README;Cybersecurity;Artificial+Intelligence;Coding;Web+3.0" />
 </h1> 
 
 ## 💻👨‍💻 More Info About Me 👩‍💻📚
