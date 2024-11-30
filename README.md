@@ -68,6 +68,8 @@ Fields_Of_Interest:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+![tryhackme stats](https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/master/assets/thm_propic.png)
+
 ## 😂🤖 ReadMe Joke 😄🎭
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
