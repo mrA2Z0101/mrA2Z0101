@@ -13,7 +13,7 @@ Name: Aaron Zajicek
 Education:
   {
     Associates of Art - Lonestar College
-    Bachelors in Computer Information Systems - University of Houston Victoria *Work in Progress*
+    Bachelors in Computer Information Systems - Texas A&M - Victoria (Previously known as University of Houston - Victoria)
   }
 
 Certifications:
