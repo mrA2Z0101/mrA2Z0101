@@ -1,97 +1,184 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hello+World!&type=venom&animation=twinkling&theme=tokyonight" />
-</p>
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--              AARON ZAJICEK — PROFILE README           -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+Aarons+README;Cybersecurity;Artificial+Intelligence;Coding;Web+3.0" />
-</h1> 
+<div align="center">
 
-## 💻👨‍💻 More Info About Me 👩‍💻📚
-```yaml
-Name: Aaron Zajicek
-
-Education:
-  {
-    Associates of Art - Lonestar College
-    Bachelors in Computer Information Systems - Texas A&M - Victoria (Previously known as University of Houston - Victoria)
-  }
-
-Certifications:
-  {
-    IBM IT Support Professional Certificate
-    Google Cybersecurity Professional Certificate *Work in Progress*
-  }
-
-Fields_Of_Interest:
-  {
-    Cybersecurity:
-      Security Operations Center (SOC)
-      Forensic Analysis
-      Penetration Testing (Ethical Hacking)
-      Network Security
-      Information Security
-
-    Artificial Intelligence:
-      Machine Learning (ML)
-      Generative AI
-  }
 ```
-## 🌐📱 Find me on my Socials! 📧📲
-<p align="left">
-<a href="https://www.instagram.com/a.2.z0101/">
-  <img height="50" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="https://www.linkedin.com/in/aaronkeithzajicek/">
-  <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://x.com/A2Z0101">
-  <img height="50" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a>
-<a href="https://stackoverflow.com/users/27415666/a2z0101?tab=profile">
-  <img height="50" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> </a>
-<a href="https://leetcode.com/u/user8137qi/">
-  <img height="50" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
-<a href="https://www.hackerrank.com/profile/mr_aaronz0101">
-  <img height="50" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-</p>
+   _      _   ___  ___  _  _    ____  _     _ ___ ___ ___ _  __
+  /_\    /_\ | _ \/ _ \| \| |  |_  / /_\ _ | |_ _/ __| __| |/ /
+ / _ \  / _ \|   / (_) | .` |   / / / _ \ || || | (__| _|| ' < 
+/_/ \_\/_/ \_\_|_\\___/|_|\_|  /___/_/ \_\__/|___\___|___|_|\_\
+                                                               
+```
 
-## 🛠️💻 Languages I've Used 🖥️💡
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### `// PORTFOLIO.EXE — IDENTITY LOADED`
 
-## 🧑‍💻 Operating Systems 💿💻
-![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![image](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
-![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+**IT Help Desk Technician &nbsp;·&nbsp; CIS Graduate &nbsp;·&nbsp; IT Freelancer &nbsp;·&nbsp; Security Researcher**
 
-## 📝🛠️ IDEs I've Used ⚙️⌨️
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+`[ KATY, TX // HOUSTON METRO ]` &nbsp;&nbsp; `[ STATUS: ONLINE ]` &nbsp;&nbsp; `[ AUTH: GRANTED ]`
 
-![tryhackme stats](https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/master/assets/thm_propic.png)
+<br>
 
-## 😂🤖 ReadMe Joke 😄🎭
-![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-aaronzajicek.com-0a2010?style=for-the-badge&labelColor=020b04)](https://aaronzajicek.com)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-aaronkeithzajicek-001a25?style=for-the-badge&labelColor=020b04)](https://linkedin.com/in/aaronkeithzajicek)
+[![Upwork](https://img.shields.io/badge/◈_UPWORK-HIRE_ME-0a2010?style=for-the-badge&labelColor=020b04)](https://www.upwork.com/freelancers/~01b56ee65fad4009fd)
+[![Fiverr](https://img.shields.io/badge/◈_FIVERR-HIRE_ME-001a25?style=for-the-badge&labelColor=020b04)](https://www.fiverr.com/users/aaron_zajicek)
 
-## 📊📈 GitHub Stats 📉📟
-![Aaron Zajicek's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrA2Z0101&theme=chartreuse-dark&show_icons=true)
+</div>
 
-![image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFmaXFvMm9haDRwOGlldmR5OTFyNmI4OXkzNm43amJ0YjBvcThpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/200.webp)
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=3EFF39&width=435&lines=That%E2%80%99s+all+Folks!)](https://git.io/typing-svg)
+## `$ cat whoami.txt`
 
+```bash
+aaron@sys:~$ cat whoami.txt
 
-<!--
-**mrA2Z0101/mrA2Z0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Computer Information Systems graduate from Texas A&M University – Victoria.
+> Specializing in IT support, Windows environments, Active Directory,
+> and Microsoft 365 — plus cybersecurity tooling, automation, and software development.
+>
+> I build things that sit at the intersection of security and obsession:
+> phishing detectors, network scanners, ESP32 hardware devices, browser
+> extensions, and the occasional sentient pong ball.
+>
+> Actively seeking entry-level IT / Help Desk roles.
+> Open to freelance security consulting and development work.
 
-Here are some ideas to get you started:
+aaron@sys:~$ █
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## `$ ls ./skills/`
+
+<div align="center">
+
+### `// IT SUPPORT`
+
+![Windows](https://img.shields.io/badge/🟢_Windows_Troubleshooting-PROFICIENT-020b04?style=flat-square&labelColor=051505)
+![Active Directory](https://img.shields.io/badge/🟢_Active_Directory-PROFICIENT-020b04?style=flat-square&labelColor=051505)
+![Microsoft 365](https://img.shields.io/badge/🟢_Microsoft_365-PROFICIENT-020b04?style=flat-square&labelColor=051505)
+![Ticketing](https://img.shields.io/badge/🟢_Ticketing_%26_Documentation-PROFICIENT-020b04?style=flat-square&labelColor=051505)
+
+### `// SECURITY`
+
+![Phishing](https://img.shields.io/badge/🔵_Phishing_Detection-EXPERT-020b04?style=flat-square&labelColor=001a25)
+![Wireshark](https://img.shields.io/badge/🔵_Wireshark_%2F_Packet_Analysis-SKILLED-020b04?style=flat-square&labelColor=001a25)
+![Nmap](https://img.shields.io/badge/🔵_Nmap_%2F_Vuln_Scanning-SKILLED-020b04?style=flat-square&labelColor=001a25)
+![SPF DKIM](https://img.shields.io/badge/🔵_SPF_%2F_DKIM_%2F_DMARC-SKILLED-020b04?style=flat-square&labelColor=001a25)
+
+### `// DEVELOPMENT`
+
+![Python](https://img.shields.io/badge/🟡_Python-SKILLED-020b04?style=flat-square&labelColor=151200&logo=python&logoColor=ffd600)
+![Automation](https://img.shields.io/badge/🟡_Automation-SKILLED-020b04?style=flat-square&labelColor=151200)
+![Prompt Engineering](https://img.shields.io/badge/🟡_Prompt_Engineering-SKILLED-020b04?style=flat-square&labelColor=151200)
+![JavaScript](https://img.shields.io/badge/🟡_JavaScript-SKILLED-020b04?style=flat-square&labelColor=151200&logo=javascript&logoColor=ffd600)
+![Arduino](https://img.shields.io/badge/🟡_Arduino_%2F_ESP32-BUILDING-020b04?style=flat-square&labelColor=151200&logo=arduino&logoColor=ffd600)
+
+</div>
+
+---
+
+## `$ ls ./projects/`
+
+### `// BROWSER EXTENSIONS`
+
+| ID | Project | Description | Status |
+|---|---|---|---|
+| `E-001` | **[PhishEye Recon](https://github.com/mrA2Z0101/PhishEye-Recon)** | Browser extension for detecting phishing, homograph attacks, and domain spoofing. Features risk scoring, brand impersonation detection, Unicode analysis, and optional VirusTotal & urlscan integration. | `● ACTIVE` |
+
+---
+
+### `// HARDWARE`
+
+| ID | Project | Description | Status |
+|---|---|---|---|
+| `H-001` | **[Defendagotchi](https://github.com/mrA2Z0101/Defendagotchi)** | Tamagotchi-style ESP32 cybersecurity companion with ILI9341 touchscreen. Runs real-time Wi-Fi threat scans — detecting rogue APs, deauth attacks, captive portals, and weak encryption. | `● ACTIVE` |
+| `H-002` | **[PandaFense](https://github.com/mrA2Z0101/Pandafense-Cybersecurity-Tool)** | Handheld ESP32 defense tool with OLED UI, CC1101 Sub-GHz RF module, 14 Wi-Fi detectors, 10 BLE detectors, honeypot modules, and a live WebSocket WebUI at `pandafense.local`. | `● ACTIVE` |
+
+---
+
+### `// SCRIPTS — CYBERSECURITY`
+
+```python
+# Simple, practical security scripts. No bloat.
+```
+
+| Script | What It Does |
+|---|---|
+| `email_analyzer.py` | SPF / DKIM / DMARC parsing, hop tracing, spoofing detection — accepts `.eml` files or stdin |
+| `port_scanner.py` | TCP/UDP scanner with banner grabbing & service fingerprinting — zero dependencies, pure stdlib |
+| `ssl_inspector.py` | SSL/TLS cert inspector — expiry, cipher suites, chain validation, JSON output |
+
+---
+
+### `// SCRIPTS — IT`
+
+| Script | What It Does |
+|---|---|
+| `backup_tool.py` | Compress → upload to S3/Backblaze B2 → rotate old backups on a schedule |
+| `disk_reporter.py` | Top disk offenders, duplicate/old file detection, email alerts — zero dependencies |
+| `health_monitor.py` | Service uptime monitor — SQLite logging, Slack & email alerts on failure/recovery |
+| `net_pinger.py` | CIDR sweep pinger — ICMP/TCP probing, latency stats, hostname resolution, watch mode |
+| `sys_inventory.py` | System snapshot — CPU, RAM, OS, disk, network, processes, software — JSON/CSV export |
+
+---
+
+### `// GAMES`
+
+| ID | Project | Description | Status |
+|---|---|---|---|
+| `G-001` | **[Glitch Pong](https://glitchpong.com)** | A glitchy cyberpunk Pong remake where the ball is sentient and actively works against you. Not just the paddle — the ball itself is your enemy. Neon visuals, dystopian vibe. | `● ACTIVE` |
+
+---
+
+## `$ cat stats.log`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrA2Z0101&show_icons=true&theme=chartreuse-dark&bg_color=020b04&border_color=00ff41&title_color=00ff41&icon_color=00e5ff&text_color=5ddd88&hide_border=false" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrA2Z0101&theme=dark&background=020b04&border=00ff41&ring=00ff41&fire=ff006e&currStreakNum=00e5ff&sideNums=5ddd88&currStreakLabel=00ff41&sideLabels=5ddd88&dates=5ddd88" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrA2Z0101&layout=compact&theme=chartreuse-dark&bg_color=020b04&border_color=00ff41&title_color=00ff41&text_color=5ddd88" width="40%" />
+
+</div>
+
+---
+
+## `$ cat contact.txt`
+
+```bash
+aaron@sys:~$ cat contact.txt
+
+  EMAIL    →  mr.aaronz0101@gmail.com
+  LINKEDIN →  linkedin.com/in/aaronkeithzajicek
+  UPWORK   →  upwork.com/freelancers/~01b56ee65fad4009fd
+  FIVERR   →  fiverr.com/users/aaron_zajicek
+  PORTFOLIO→  aaronzajicek.com
+  GITHUB   →  github.com/mrA2Z0101
+
+  OPEN TO: Freelance · IT Help Desk · Security Consulting · Collaboration
+
+aaron@sys:~$ █
+```
+
+---
+
+### `// ETSY STORES`
+
+[![ArtisticZebra](https://img.shields.io/badge/🟢_ArtisticZebra_Digital-ETSY-020b04?style=flat-square&labelColor=051505)](https://www.etsy.com/shop/ArtisticZebraDigital)
+[![Rebel](https://img.shields.io/badge/🔵_Rebel_Against_The_Flesh-ETSY-020b04?style=flat-square&labelColor=001a25)](https://www.etsy.com/shop/RebelAgainstTheFlesh)
+[![ByteSized](https://img.shields.io/badge/🟡_ByteSized_Wisdom-ETSY-020b04?style=flat-square&labelColor=151200)](https://www.etsy.com/shop/ByteSizedWisdom)
+
+---
+
+<div align="center">
+
+`// END OF FILE — SYSTEM ONLINE — UPTIME: 99.97%`
+
+![Visitor Count](https://komarev.com/ghpvc/?username=mrA2Z0101&color=020b04&style=flat-square&label=PROFILE+VIEWS&labelColor=0a1a0a)
+
+</div>
