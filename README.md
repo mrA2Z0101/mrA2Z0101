@@ -90,6 +90,16 @@ aaron@sys:~$ █
 
 ---
 
+### `// APPS`
+
+| ID | App | Description | Status |
+|---|---|---|---|
+| `A-001` | **LogEye** | Log analyzer and threat detector that ingests Windows Security and Linux auth logs, normalizes events, and surfaces findings like brute-force attacks, suspicious logins, and privilege escalation. Exports to CSV and JSON. Free CLI + paid WPF desktop GUI. | `● DEPLOYED` |
+| `A-002` | **GhostProcess** | Real-time suspicious process scanner that enumerates all running processes, computes SHA-256 hashes, and queries VirusTotal to classify each as clean, malicious, or unknown. Features a tabbed Tkinter GUI with KPI dashboard cards, risk scoring, and persistent settings. | `● ACTIVE` |
+| `A-003` | **Cipher Sentinel** | Advanced password strength analyzer with offline SHA-1 breach hash detection (HIBP-compatible), keyboard-walk sequence detection, entropy scoring, and 10 switchable themes including SOC Nightfall, Matrix Protocol, and Cyber Neon. | `● DEPLOYED` |
+
+---
+
 ### `// HARDWARE`
 
 | ID | Project | Description | Status |
@@ -137,12 +147,15 @@ aaron@sys:~$ █
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrA2Z0101&show_icons=true&theme=chartreuse-dark&bg_color=020b04&border_color=00ff41&title_color=00ff41&icon_color=00e5ff&text_color=5ddd88&hide_border=false" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrA2Z0101&theme=dark&background=020b04&border=00ff41&ring=00ff41&fire=ff006e&currStreakNum=00e5ff&sideNums=5ddd88&currStreakLabel=00ff41&sideLabels=5ddd88&dates=5ddd88" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mrA2Z0101&show_icons=true&theme=chartreuse-dark&bg_color=020b04&border_color=00ff41&title_color=00ff41&icon_color=00e5ff&text_color=5ddd88&hide_border=false" width="65%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrA2Z0101&layout=compact&theme=chartreuse-dark&bg_color=020b04&border_color=00ff41&title_color=00ff41&text_color=5ddd88" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrA2Z0101&theme=dark&background=020b04&border=00ff41&ring=00ff41&fire=ff006e&currStreakNum=00e5ff&sideNums=5ddd88&currStreakLabel=00ff41&sideLabels=5ddd88&dates=5ddd88" width="65%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrA2Z0101&layout=compact&theme=chartreuse-dark&bg_color=020b04&border_color=00ff41&title_color=00ff41&text_color=5ddd88" width="50%" />
 
 </div>
 
