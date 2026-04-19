@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="banner.gif" alt="Aaron Zajicek — Portfolio.exe" width="100%" />
+<img src="https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/main/banner.gif" alt="Aaron Zajicek — Portfolio.exe" width="100%" />
 
 <br>
 
@@ -22,7 +22,7 @@
 ## `$ cat whoami.txt`
 
 <div align="center">
-<img src="terminal.gif" alt="whoami terminal" width="100%" />
+<img src="https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/main/terminal.gif" alt="whoami terminal" width="100%" />
 </div>
 
 -----
@@ -30,7 +30,7 @@
 ## `$ ls ./skills/`
 
 <div align="center">
-<img src="skills.gif" alt="Skills" width="100%" />
+<img src="https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/main/skills.gif" alt="Skills" width="100%" />
 </div>
 
 -----
