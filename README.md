@@ -1,7 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════ -->
-
 <!--              AARON ZAJICEK — PROFILE README           -->
-
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -17,7 +15,7 @@
 
 </div>
 
------
+---
 
 ## `$ cat whoami.txt`
 
@@ -25,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/main/terminal.gif" alt="whoami terminal" width="100%" />
 </div>
 
------
+---
 
 ## `$ ls ./skills/`
 
@@ -33,36 +31,36 @@
 <img src="https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/main/skills.gif" alt="Skills" width="100%" />
 </div>
 
------
+---
 
 ## `$ ls ./projects/`
 
 ### `// BROWSER EXTENSIONS`
 
-|ID     |Project                                                          |Description                                                                                                                                                                                             |Status    |
-|-------|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-|`E-001`|**[PhishEye Recon](https://github.com/mrA2Z0101/PhishEye-Recon)**|Browser extension for detecting phishing, homograph attacks, and domain spoofing. Features risk scoring, brand impersonation detection, Unicode analysis, and optional VirusTotal & urlscan integration.|`● ACTIVE`|
+| ID | Project | Description | Status |
+|---|---|---|---|
+| `E-001` | **[PhishEye Recon](https://github.com/mrA2Z0101/PhishEye-Recon)** | Browser extension for detecting phishing, homograph attacks, and domain spoofing. Features risk scoring, brand impersonation detection, Unicode analysis, and optional VirusTotal & urlscan integration. | `● ACTIVE` |
 
------
+---
 
 ### `// APPS`
 
-|ID     |App                |Description                                                                                                                                                                                                                                                                 |Status      |
-|-------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
-|`A-001`|**LogEye**         |Log analyzer and threat detector that ingests Windows Security and Linux auth logs, normalizes events, and surfaces findings like brute-force attacks, suspicious logins, and privilege escalation. Exports to CSV and JSON. Free CLI + paid WPF desktop GUI.               |`● DEPLOYED`|
-|`A-002`|**GhostProcess**   |Real-time suspicious process scanner that enumerates all running processes, computes SHA-256 hashes, and queries VirusTotal to classify each as clean, malicious, or unknown. Features a tabbed Tkinter GUI with KPI dashboard cards, risk scoring, and persistent settings.|`● ACTIVE`  |
-|`A-003`|**Cipher Sentinel**|Advanced password strength analyzer with offline SHA-1 breach hash detection (HIBP-compatible), keyboard-walk sequence detection, entropy scoring, and 10 switchable themes including SOC Nightfall, Matrix Protocol, and Cyber Neon.                                       |`● DEPLOYED`|
+| ID | App | Description | Status |
+|---|---|---|---|
+| `A-001` | **LogEye** | Log analyzer and threat detector that ingests Windows Security and Linux auth logs, normalizes events, and surfaces findings like brute-force attacks, suspicious logins, and privilege escalation. Exports to CSV and JSON. Free CLI + paid WPF desktop GUI. | `● DEPLOYED` |
+| `A-002` | **GhostProcess** | Real-time suspicious process scanner that enumerates all running processes, computes SHA-256 hashes, and queries VirusTotal to classify each as clean, malicious, or unknown. Features a tabbed Tkinter GUI with KPI dashboard cards, risk scoring, and persistent settings. | `● ACTIVE` |
+| `A-003` | **Cipher Sentinel** | Advanced password strength analyzer with offline SHA-1 breach hash detection (HIBP-compatible), keyboard-walk sequence detection, entropy scoring, and 10 switchable themes including SOC Nightfall, Matrix Protocol, and Cyber Neon. | `● DEPLOYED` |
 
------
+---
 
 ### `// HARDWARE`
 
-|ID     |Project                                                                     |Description                                                                                                                                                                            |Status    |
-|-------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-|`H-001`|**[Defendagotchi](https://github.com/mrA2Z0101/Defendagotchi)**             |Tamagotchi-style ESP32 cybersecurity companion with ILI9341 touchscreen. Runs real-time Wi-Fi threat scans — detecting rogue APs, deauth attacks, captive portals, and weak encryption.|`● ACTIVE`|
-|`H-002`|**[PandaFense](https://github.com/mrA2Z0101/Pandafense-Cybersecurity-Tool)**|Handheld ESP32 defense tool with OLED UI, CC1101 Sub-GHz RF module, 14 Wi-Fi detectors, 10 BLE detectors, honeypot modules, and a live WebSocket WebUI at `pandafense.local`.          |`● ACTIVE`|
+| ID | Project | Description | Status |
+|---|---|---|---|
+| `H-001` | **[Defendagotchi](https://github.com/mrA2Z0101/Defendagotchi)** | Tamagotchi-style ESP32 cybersecurity companion with ILI9341 touchscreen. Runs real-time Wi-Fi threat scans — detecting rogue APs, deauth attacks, captive portals, and weak encryption. | `● ACTIVE` |
+| `H-002` | **[PandaFense](https://github.com/mrA2Z0101/Pandafense-Cybersecurity-Tool)** | Handheld ESP32 defense tool with OLED UI, CC1101 Sub-GHz RF module, 14 Wi-Fi detectors, 10 BLE detectors, honeypot modules, and a live WebSocket WebUI at `pandafense.local`. | `● ACTIVE` |
 
------
+---
 
 ### `// SCRIPTS — CYBERSECURITY`
 
@@ -70,33 +68,33 @@
 # Simple, practical security scripts. No bloat.
 ```
 
-|Script             |What It Does                                                                                  |
-|-------------------|----------------------------------------------------------------------------------------------|
-|`email_analyzer.py`|SPF / DKIM / DMARC parsing, hop tracing, spoofing detection — accepts `.eml` files or stdin   |
-|`port_scanner.py`  |TCP/UDP scanner with banner grabbing & service fingerprinting — zero dependencies, pure stdlib|
-|`ssl_inspector.py` |SSL/TLS cert inspector — expiry, cipher suites, chain validation, JSON output                 |
+| Script | What It Does |
+|---|---|
+| `email_analyzer.py` | SPF / DKIM / DMARC parsing, hop tracing, spoofing detection — accepts `.eml` files or stdin |
+| `port_scanner.py` | TCP/UDP scanner with banner grabbing & service fingerprinting — zero dependencies, pure stdlib |
+| `ssl_inspector.py` | SSL/TLS cert inspector — expiry, cipher suites, chain validation, JSON output |
 
------
+---
 
 ### `// SCRIPTS — IT`
 
-|Script             |What It Does                                                                        |
-|-------------------|------------------------------------------------------------------------------------|
-|`backup_tool.py`   |Compress → upload to S3/Backblaze B2 → rotate old backups on a schedule             |
-|`disk_reporter.py` |Top disk offenders, duplicate/old file detection, email alerts — zero dependencies  |
-|`health_monitor.py`|Service uptime monitor — SQLite logging, Slack & email alerts on failure/recovery   |
-|`net_pinger.py`    |CIDR sweep pinger — ICMP/TCP probing, latency stats, hostname resolution, watch mode|
-|`sys_inventory.py` |System snapshot — CPU, RAM, OS, disk, network, processes, software — JSON/CSV export|
+| Script | What It Does |
+|---|---|
+| `backup_tool.py` | Compress → upload to S3/Backblaze B2 → rotate old backups on a schedule |
+| `disk_reporter.py` | Top disk offenders, duplicate/old file detection, email alerts — zero dependencies |
+| `health_monitor.py` | Service uptime monitor — SQLite logging, Slack & email alerts on failure/recovery |
+| `net_pinger.py` | CIDR sweep pinger — ICMP/TCP probing, latency stats, hostname resolution, watch mode |
+| `sys_inventory.py` | System snapshot — CPU, RAM, OS, disk, network, processes, software — JSON/CSV export |
 
------
+---
 
 ### `// GAMES`
 
-|ID     |Project                                  |Description                                                                                                                                                                  |Status    |
-|-------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-|`G-001`|**[Glitch Pong](https://glitchpong.com)**|A glitchy cyberpunk Pong remake where the ball is sentient and actively works against you. Not just the paddle — the ball itself is your enemy. Neon visuals, dystopian vibe.|`● ACTIVE`|
+| ID | Project | Description | Status |
+|---|---|---|---|
+| `G-001` | **[Glitch Pong](https://glitchpong.com)** | A glitchy cyberpunk Pong remake where the ball is sentient and actively works against you. Not just the paddle — the ball itself is your enemy. Neon visuals, dystopian vibe. | `● ACTIVE` |
 
------
+---
 
 ## `$ cat stats.log`
 
@@ -114,26 +112,15 @@
 
 </div>
 
------
+---
 
 ## `$ cat contact.txt`
 
-```bash
-aaron@sys:~$ cat contact.txt
+<div align="center">
+<img src="https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/main/contact.gif" alt="Contact info terminal" width="100%" />
+</div>
 
-  EMAIL    →  mr.aaronz0101@gmail.com
-  LINKEDIN →  linkedin.com/in/aaronkeithzajicek
-  UPWORK   →  upwork.com/freelancers/~01b56ee65fad4009fd
-  FIVERR   →  fiverr.com/users/aaron_zajicek
-  PORTFOLIO→  aaronzajicek.com
-  GITHUB   →  github.com/mrA2Z0101
-
-  OPEN TO: Freelance · IT Help Desk · Security Consulting · Collaboration
-
-aaron@sys:~$ █
-```
-
------
+---
 
 ### `// ETSY STORES`
 
@@ -141,7 +128,7 @@ aaron@sys:~$ █
 [![Rebel](https://img.shields.io/badge/🔵_Rebel_Against_The_Flesh-ETSY-020b04?style=flat-square&labelColor=001a25)](https://www.etsy.com/shop/RebelAgainstTheFlesh)
 [![ByteSized](https://img.shields.io/badge/🟡_ByteSized_Wisdom-ETSY-020b04?style=flat-square&labelColor=151200)](https://www.etsy.com/shop/ByteSizedWisdom)
 
------
+---
 
 <div align="center">
 
