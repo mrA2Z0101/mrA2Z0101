@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 230" width="880" height="230" role="img" aria-label="Glitchcade, home of Glitch Pong">
+<title>Glitchcade, home of Glitch Pong</title>
+<style>
+.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+
+.live{animation:live 1.8s ease-in-out infinite}
+@keyframes live{0%,100%{opacity:1}50%{opacity:.2}}
+
+.ball{animation:ball 4.6s linear infinite}
+@keyframes ball{0.00%{transform:translate(16px,90px)}15.85%{transform:translate(110px,8px)}41.74%{transform:translate(263.6px,142px)}48.53%{transform:translate(304px,107px)}66.40%{transform:translate(204px,8px)}90.61%{transform:translate(68.5px,142px)}100.00%{transform:translate(16px,90px)}}
+.pl{animation:pl 4.6s ease-in-out infinite}
+@keyframes pl{0%,100%{transform:translate(9px,90px)}22%{transform:translate(9px,58px)}58%{transform:translate(9px,112px)}84%{transform:translate(9px,108px)}}
+.pr{animation:pr 4.6s ease-in-out infinite}
+@keyframes pr{0%,100%{transform:translate(311px,64px)}30%{transform:translate(311px,118px)}48.53%{transform:translate(311px,107px)}74%{transform:translate(311px,52px)}}
+.slice{opacity:0;animation:slice 5.3s steps(1,end) infinite}
+@keyframes slice{0%{opacity:0}71%{opacity:.75;transform:translateX(-10px)}73%{opacity:.4;transform:translateX(14px)}75%{opacity:0}}
+.gl{opacity:0;animation:gl 5.3s steps(1,end) infinite}
+@keyframes gl{0%{opacity:0}70%{opacity:.9;transform:translate(-5px,0)}72%{opacity:.9;transform:translate(4px,2px)}74%{opacity:.6;transform:translate(-2px,-1px)}76%{opacity:0}}
+.court{animation:jolt 5.3s steps(1,end) infinite}
+@keyframes jolt{0%{transform:translate(0,0)}71%{transform:translate(3px,0)}73%{transform:translate(-2px,0)}75%{transform:translate(0,0)}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@media (prefers-reduced-motion:reduce){.ball{transform:translate(150px,70px)}.pl{transform:translate(9px,90px)}.pr{transform:translate(311px,64px)}}</style>
+<defs>
+<clipPath id="frame"><rect width="880" height="230" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="880" height="230" fill="#000000"/>
+
+<text class="m" x="40" y="62" font-size="12" letter-spacing="2.6" fill="#7DD3FC">BROWSER ARCADE  /  FOUR GAMES AND COUNTING</text>
+<text class="s gl" x="39" y="122" font-size="52" font-weight="700" letter-spacing="-1.2" fill="#7DD3FC">Glitchcade</text>
+<text class="s" x="39" y="122" font-size="52" font-weight="700" letter-spacing="-1.2" fill="#FFFFFF">Glitchcade</text>
+<text class="s" x="41" y="154" font-size="17" fill="#FFFFFF" fill-opacity=".72">Home of Glitch Pong, where the machines fight back.</text>
+<rect x="40" y="176" width="220" height="24" rx="12" fill="none" stroke="#7DD3FC" stroke-opacity=".45" stroke-width="1.25"/><circle class="live" cx="54" cy="188" r="3.5" fill="#7DD3FC"/><text class="m" x="66" y="192.2" font-size="11.5" fill="#FFFFFF" fill-opacity=".85" textLength="181.1" lengthAdjust="spacing">LIVE AT GLITCHPONG.COM</text>
+<g transform="translate(520,40)"><g class="court">
+<path d="M0 2.5H320M0 147.5H320" stroke="#FFFFFF" stroke-opacity=".4" stroke-width="1.5"/>
+<path d="M160 8V144" stroke="#FFFFFF" stroke-opacity=".3" stroke-width="2" stroke-dasharray="6 8"/>
+<text class="m" x="128" y="38" font-size="24" font-weight="700" fill="#FFFFFF" fill-opacity=".3" text-anchor="middle">07</text>
+<text class="m" x="192" y="38" font-size="24" font-weight="700" fill="#FFFFFF" fill-opacity=".3" text-anchor="middle">05</text>
+<rect class="pl" x="-3" y="-17" width="6" height="34" rx="1" fill="#FFFFFF"/>
+<rect class="pr" x="-3" y="-17" width="6" height="34" rx="1" fill="#7DD3FC"/>
+<rect class="ball" x="-4" y="-4" width="8" height="8" fill="#7DD3FC" fill-opacity="0.18" style="animation-delay:-4.51s"/><rect class="ball" x="-4" y="-4" width="8" height="8" fill="#7DD3FC" fill-opacity="0.34" style="animation-delay:-4.54s"/><rect class="ball" x="-4" y="-4" width="8" height="8" fill="#7DD3FC" fill-opacity="0.6" style="animation-delay:-4.57s"/>
+<rect class="ball" x="-4" y="-4" width="8" height="8" fill="#FFFFFF"/>
+<rect class="slice" x="30" y="52" width="210" height="5" fill="#7DD3FC"/>
+<rect class="slice" x="120" y="98" width="180" height="3" fill="#FFFFFF" style="animation-delay:.08s"/>
+<rect class="slice" x="0" y="121" width="120" height="7" fill="#7DD3FC" style="animation-delay:.04s"/>
+</g></g>
+
+</g>
+<rect x=".75" y=".75" width="878.5" height="228.5" rx="13.25" fill="none" stroke="#7DD3FC" stroke-opacity=".32" stroke-width="1.5"/>
+</svg>

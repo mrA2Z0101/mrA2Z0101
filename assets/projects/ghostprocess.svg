@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 180" width="480" height="180" role="img" aria-label="GhostProcess">
+<title>GhostProcess</title>
+<style>
+.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+
+.live{animation:live 1.8s ease-in-out infinite}
+@keyframes live{0%,100%{opacity:1}50%{opacity:.2}}
+
+.bar{animation:sweep 5.4s linear infinite}
+@keyframes sweep{0%{transform:translateY(0);opacity:0}4%{opacity:1}62%{transform:translateY(96px);opacity:1}68%,100%{transform:translateY(96px);opacity:0}}
+.st{animation:st 5.4s steps(1,end) infinite both}
+@keyframes st{0%{fill-opacity:.2}6%{fill-opacity:1}90%{fill-opacity:.2}}
+.bad{animation:bad 5.4s steps(1,end) infinite both}
+@keyframes bad{0%{stroke:#FFFFFF;stroke-opacity:.26}6%{stroke:#7DD3FC;stroke-opacity:1}90%{stroke:#FFFFFF;stroke-opacity:.26}}
+.warn{animation:warn .7s steps(1,end) infinite}
+@keyframes warn{0%{opacity:1}50%{opacity:.25}}
+.ghost{animation:float 3.6s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(3px)}50%{transform:translateY(-5px)}}
+.gh{animation:fade 3.6s ease-in-out infinite}
+@keyframes fade{0%,100%{opacity:.6}50%{opacity:1}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@media (prefers-reduced-motion:reduce){.bar{display:none}.st{fill-opacity:1}}</style>
+<defs>
+<clipPath id="frame"><rect width="480" height="180" rx="14"/></clipPath>
+<clipPath id="panel"><rect x="1.5" y="13.5" width="167" height="113" rx="8"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="480" height="180" fill="#000000"/>
+
+<text class="m" x="28" y="46" font-size="12.5" letter-spacing="2.4" fill="#7DD3FC">SECURITY TOOL</text>
+<text class="s" x="27" y="91" font-size="29" font-weight="700" letter-spacing="-.5" fill="#FFFFFF">GhostProcess</text>
+<rect x="28" y="124" width="129" height="24" rx="12" fill="none" stroke="#7DD3FC" stroke-opacity=".45" stroke-width="1.25"/><circle cx="42" cy="136" r="3.5" fill="none" stroke="#7DD3FC" stroke-width="1.5"/><text class="m" x="54" y="140.2" font-size="11.5" fill="#FFFFFF" fill-opacity=".85" textLength="89.8" lengthAdjust="spacing">OPEN SOURCE</text>
+<g transform="translate(286,20)">
+<rect x=".75" y="12.75" width="168.5" height="114.5" rx="9" fill="none" stroke="#FFFFFF" stroke-opacity=".3" stroke-width="1.5"/>
+<circle class="st" cx="14" cy="30" r="4" fill="#7DD3FC" style="animation-delay:0.41s"/><path d="M27 30H105" stroke="#FFFFFF" stroke-opacity=".26" stroke-width="3.5" stroke-linecap="round"/><circle class="st" cx="14" cy="46" r="4" fill="#7DD3FC" style="animation-delay:0.93s"/><path d="M27 46H85" stroke="#FFFFFF" stroke-opacity=".26" stroke-width="3.5" stroke-linecap="round"/><circle class="st" cx="14" cy="62" r="4" fill="#7DD3FC" style="animation-delay:1.46s"/><path d="M27 62H119" stroke="#FFFFFF" stroke-opacity=".26" stroke-width="3.5" stroke-linecap="round"/><g class="warn"><rect class="st" x="9" y="73" width="10" height="10" rx="2" fill="#FFFFFF" style="animation-delay:1.98s"/></g><path class="bad" d="M27 78H93" stroke="#FFFFFF" stroke-opacity=".26" stroke-width="3.5" stroke-linecap="round" style="animation-delay:1.98s"/><circle class="st" cx="14" cy="94" r="4" fill="#7DD3FC" style="animation-delay:2.5s"/><path d="M27 94H111" stroke="#FFFFFF" stroke-opacity=".26" stroke-width="3.5" stroke-linecap="round"/><circle class="st" cx="14" cy="110" r="4" fill="#7DD3FC" style="animation-delay:3.02s"/><path d="M27 110H79" stroke="#FFFFFF" stroke-opacity=".26" stroke-width="3.5" stroke-linecap="round"/>
+<g clip-path="url(#panel)"><rect class="bar" x="2" y="21" width="166" height="18" fill="#7DD3FC" fill-opacity=".2"/></g>
+<g class="ghost"><g class="gh">
+<path d="M112 100V66a21 21 0 0 1 42 0v34l-7-6.5-7 6.5-7-6.5-7 6.5-7-6.5z" fill="#000000" stroke="#7DD3FC" stroke-width="1.75" stroke-linejoin="round"/>
+<ellipse cx="126" cy="66" rx="3.2" ry="4.6" fill="#7DD3FC"/><ellipse cx="140" cy="66" rx="3.2" ry="4.6" fill="#7DD3FC"/>
+</g></g>
+</g>
+
+</g>
+<rect x=".75" y=".75" width="478.5" height="178.5" rx="13.25" fill="none" stroke="#7DD3FC" stroke-opacity=".32" stroke-width="1.5"/>
+</svg>
