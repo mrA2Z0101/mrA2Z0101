@@ -53,6 +53,7 @@ What I build on nights and weekends: games, security tools and hardware.
   <tr>
     <td valign="top">
       <a href="https://glitchpong.com"><img src="assets/projects/glitchcade.svg" width="100%" alt="Glitchcade, home of Glitch Pong. Live at glitchpong.com."></a>
+      <a href="https://glitchpong.com"><img src="assets/screenshots/glitchcade.webp" width="100%" alt="Screenshot of the Glitchcade floor: a dark neon arcade hall lined with game cabinets."></a>
       <br><br>
       <b>A first-person 3D arcade that runs in the browser.</b> Walk the floor and play four finished cabinets: Glitch Pong, Breakpoint, Black-Hole Nexus and Signal Lost. There is online multiplayer, a prize counter, and a computer opponent built to play like a person: it reacts late, misjudges fast shots and can be tricked.
       <br><br>
@@ -67,6 +68,7 @@ What I build on nights and weekends: games, security tools and hardware.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/mrA2Z0101/OFF-THE-HOOK"><img src="assets/projects/off-the-hook.svg" width="100%" alt="Off the Hook, a browser extension. Open source."></a>
+      <a href="https://github.com/mrA2Z0101/OFF-THE-HOOK"><img src="assets/screenshots/off-the-hook.webp" width="100%" alt="Screenshot of Off the Hook flagging a fake PayPal email as likely phishing, with the risky wording highlighted."></a>
       <br><br>
       <b>Phishing detection that lives in your inbox.</b> It reads the email you have open in Gmail or Outlook, highlights the giveaways and explains each one. More than 55 checks run in the browser, so your email never leaves your computer. An optional AI second opinion comes from a local Ollama model, any OpenAI-compatible API, or Anthropic.
       <br><br>
@@ -76,6 +78,7 @@ What I build on nights and weekends: games, security tools and hardware.
     </td>
     <td width="50%" valign="top">
       <img src="assets/projects/bytesprawl.svg" width="100%" alt="ByteSprawl, a desktop app and game. In development.">
+      <img src="assets/screenshots/bytesprawl.webp" width="100%" alt="Screenshot of ByteSprawl: a neon city seen from above, with a live feed of events in its districts.">
       <br><br>
       <b>Your Windows disk drawn as a cyberpunk city.</b> Folders and big files become buildings you can walk and drive past, and the PC's health shapes the streets. Ask in plain English to free up space and a local Ollama model reads the request. Nothing is cleaned until you approve it.
       <br><br>
@@ -90,6 +93,7 @@ What I build on nights and weekends: games, security tools and hardware.
   <tr>
     <td width="50%" valign="top">
       <img src="assets/projects/git-achievements.svg" width="100%" alt="Git Achievements, a web app. In development.">
+      <img src="assets/screenshots/git-achievements.webp" width="100%" alt="Screenshot of the Git Achievements dashboard showing a 23-day streak, level progress and the next achievements.">
       <br><br>
       <b>Streaks, achievements and custom profiles for your GitHub account.</b> 59 achievements across five rarities, XP and levels, a leaderboard, and a streak card you can drop into a README.
       <br><br>
@@ -99,6 +103,7 @@ What I build on nights and weekends: games, security tools and hardware.
     </td>
     <td width="50%" valign="top">
       <img src="assets/projects/the-back-shots.svg" width="100%" alt="The Back Shots, a 3D comedy horror game. Playable prototype.">
+      <img src="assets/screenshots/the-back-shots.webp" width="100%" alt="Screenshot of The Back Shots: a guest in a suit waits at the bar in a yellow Backrooms hallway, asking "Do you validate parking? I parked in a wall."">
       <br><br>
       <b>A first-person comedy horror bartending game set in the Backrooms.</b> The guests are not people, each of them has one rule, and so does the house. The prototype covers a seven-shift week with a debt to clear by Sunday.
       <br><br>
@@ -113,6 +118,7 @@ What I build on nights and weekends: games, security tools and hardware.
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/mrA2Z0101/Defendagotchi"><img src="assets/projects/defendagotchi.svg" width="100%" alt="Defendagotchi, ESP32 hardware. Open source."></a>
+      <a href="https://github.com/mrA2Z0101/Defendagotchi"><img src="assets/screenshots/defendagotchi.webp" width="100%" alt="Defendagotchi wiring diagram: an ESP32 board wired to the touchscreen."></a>
       <br><br>
       <b>A Tamagotchi-style Wi-Fi security companion.</b> It runs on an ESP32 with a touchscreen. Care for the pet to level it up and unlock scanners for deauth attacks, rogue access points, captive portals and weak encryption.
       <br><br>
@@ -122,6 +128,7 @@ What I build on nights and weekends: games, security tools and hardware.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/mrA2Z0101/GhostProcess"><img src="assets/projects/ghostprocess.svg" width="100%" alt="GhostProcess, a security tool. Open source."></a>
+      <a href="https://github.com/mrA2Z0101/GhostProcess"><img src="assets/screenshots/ghostprocess.webp" width="100%" alt="Preview of the GhostProcess dashboard from its README: 247 processes scanned, 3 malicious, 12 unknown."></a>
       <br><br>
       <b>A process scanner that hunts for malicious executables hiding in memory.</b> It hashes every running process, checks each one against threat intelligence such as VirusTotal, and lets you quarantine what it flags.
       <br><br>
