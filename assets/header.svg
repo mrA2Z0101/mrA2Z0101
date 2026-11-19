@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" role="img" aria-label="Aaron Zajicek, AI systems and automation">
+<title>Aaron Zajicek, AI systems and automation</title>
+<style>
+.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+
+.dot{animation:blip 2.4s ease-in-out infinite}
+@keyframes blip{0%,100%{opacity:1}50%{opacity:.25}}
+.base{fill:none;stroke:#7DD3FC;stroke-opacity:.26;stroke-width:1.25}
+.pulse{fill:none;stroke:#E0F2FE;stroke-width:2.25;stroke-linecap:round;stroke-dasharray:9 200;stroke-dashoffset:9;animation:flow 4.8s linear infinite}
+@keyframes flow{0%{stroke-dashoffset:9}45%,100%{stroke-dashoffset:-100}}
+.halo{fill:none;stroke:#7DD3FC;transform-box:fill-box;transform-origin:center;animation:halo 4.8s ease-out infinite}
+@keyframes halo{0%{transform:scale(1);opacity:.7}35%,100%{transform:scale(3.2);opacity:0}}
+.ring1{transform-origin:690px 150px;animation:spin 22s linear infinite}
+.ring2{transform-origin:690px 150px;animation:spin 34s linear infinite reverse}
+@keyframes spin{to{transform:rotate(360deg)}}
+.glow{animation:glow 1.2s ease-in-out .96s infinite}
+@keyframes glow{0%,100%{opacity:.55}50%{opacity:1}}
+.star{transform-origin:690px 150px;animation:beat 1.2s ease-in-out .96s infinite}
+@keyframes beat{0%,100%{transform:scale(1)}50%{transform:scale(1.16)}}
+.cur{animation:blink 1s steps(1,end) infinite}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+.ph{animation:vis 13.799999999999999s linear infinite}
+@keyframes vis{0%,33.3%{opacity:1}33.34%,100%{opacity:0}}
+@keyframes t0{0%{transform:translateX(0);animation-timing-function:steps(38,end)}11.565%{transform:translateX(364.8px)}23.913%{transform:translateX(364.8px);animation-timing-function:steps(38,end)}28.623%,100%{transform:translateX(0)}}
+.ph0{animation-delay:0.00s}.ov0{animation:t0 13.799999999999999s linear 0.00s infinite}
+@keyframes t1{0%{transform:translateX(0);animation-timing-function:steps(38,end)}11.565%{transform:translateX(364.8px)}23.913%{transform:translateX(364.8px);animation-timing-function:steps(38,end)}28.623%,100%{transform:translateX(0)}}
+.ph1{animation-delay:-9.20s}.ov1{animation:t1 13.799999999999999s linear -9.20s infinite}
+@keyframes t2{0%{transform:translateX(0);animation-timing-function:steps(34,end)}10.348%{transform:translateX(326.4px)}23.913%{transform:translateX(326.4px);animation-timing-function:steps(34,end)}28.623%,100%{transform:translateX(0)}}
+.ph2{animation-delay:-4.60s}.ov2{animation:t2 13.799999999999999s linear -4.60s infinite}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+@media (prefers-reduced-motion:reduce){.ov,.ph1,.ph2,.pulse,.halo{display:none}}</style>
+<defs>
+<clipPath id="frame"><rect width="880" height="300" rx="14"/></clipPath>
+
+<pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#7DD3FC" fill-opacity=".34"/></pattern>
+<linearGradient id="fadeg" x1="0" x2="1" y1="0" y2="0"><stop offset=".3" stop-color="#fff" stop-opacity="0"/><stop offset=".62" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity=".5"/></linearGradient>
+<mask id="fade"><rect width="880" height="300" fill="url(#fadeg)"/></mask>
+<radialGradient id="core"><stop offset="0" stop-color="#7DD3FC" stop-opacity=".34"/><stop offset="1" stop-color="#7DD3FC" stop-opacity="0"/></radialGradient>
+<clipPath id="tz"><rect x="65.2" y="226" width="420" height="32"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="880" height="300" fill="#000000"/>
+
+<rect width="880" height="300" fill="url(#grid)" mask="url(#fade)"/>
+<circle class="glow" cx="690" cy="150" r="120" fill="url(#core)"/>
+<path class="base" d="M548,62 C604,62 618,133 660.6,133"/><path class="base" d="M530,122 C584,122 606,144 656.5,144.1"/><path class="base" d="M530,182 C584,182 606,156 656.5,155.9"/><path class="base" d="M548,240 C604,240 618,167 660.6,167"/><path class="base" d="M720.8,135.6 C768,135.6 782,80 838,80"/><path class="base" d="M724,150 L850,150"/><path class="base" d="M720.8,164.4 C768,164.4 782,220 838,220"/><path class="pulse" pathLength="100" d="M548,62 C604,62 618,133 660.6,133" style="animation-delay:0s"/><path class="pulse" pathLength="100" d="M530,122 C584,122 606,144 656.5,144.1" style="animation-delay:-1.2s"/><path class="pulse" pathLength="100" d="M530,182 C584,182 606,156 656.5,155.9" style="animation-delay:-2.4s"/><path class="pulse" pathLength="100" d="M548,240 C604,240 618,167 660.6,167" style="animation-delay:-3.6s"/><path class="pulse" pathLength="100" d="M720.8,135.6 C768,135.6 782,80 838,80" style="animation-delay:-2.64s"/><path class="pulse" pathLength="100" d="M724,150 L850,150" style="animation-delay:-3.84s"/><path class="pulse" pathLength="100" d="M720.8,164.4 C768,164.4 782,220 838,220" style="animation-delay:-0.24s"/><circle class="halo" cx="548" cy="62" r="5" style="animation-delay:0s"/><rect x="543" y="57" width="10" height="10" rx="2.5" fill="#000000" stroke="#7DD3FC" stroke-width="1.5"/><circle class="halo" cx="530" cy="122" r="5" style="animation-delay:-1.2s"/><rect x="525" y="117" width="10" height="10" rx="2.5" fill="#000000" stroke="#7DD3FC" stroke-width="1.5"/><circle class="halo" cx="530" cy="182" r="5" style="animation-delay:-2.4s"/><rect x="525" y="177" width="10" height="10" rx="2.5" fill="#000000" stroke="#7DD3FC" stroke-width="1.5"/><circle class="halo" cx="548" cy="240" r="5" style="animation-delay:-3.6s"/><rect x="543" y="235" width="10" height="10" rx="2.5" fill="#000000" stroke="#7DD3FC" stroke-width="1.5"/><circle class="halo" cx="838" cy="80" r="5" style="animation-delay:-0.48s"/><circle cx="838" cy="80" r="5" fill="#7DD3FC"/><circle class="halo" cx="850" cy="150" r="5" style="animation-delay:-1.68s"/><circle cx="850" cy="150" r="5" fill="#7DD3FC"/><circle class="halo" cx="838" cy="220" r="5" style="animation-delay:1.92s"/><circle cx="838" cy="220" r="5" fill="#7DD3FC"/>
+<circle class="ring2" cx="690" cy="150" r="58" fill="none" stroke="#7DD3FC" stroke-opacity=".35" stroke-width="1.25" stroke-dasharray="1.5 11" stroke-linecap="round"/>
+<circle class="ring1" cx="690" cy="150" r="45" fill="none" stroke="#7DD3FC" stroke-opacity=".6" stroke-width="1.25" stroke-dasharray="26 10 4 10"/>
+<circle cx="690" cy="150" r="34" fill="#000000" stroke="#7DD3FC" stroke-width="1.5"/>
+<path class="star" d="M690 131C691.4 142.4 697.6 148.6 709 150C697.6 151.4 691.4 157.6 690 169C688.6 157.6 682.4 151.4 671 150C682.4 148.6 688.6 142.4 690 131Z" fill="#FFFFFF"/>
+<circle class="dot" cx="52" cy="77.5" r="4" fill="#7DD3FC"/>
+<text class="m" x="66" y="82" font-size="12.5" letter-spacing="3" fill="#7DD3FC">AI SYSTEMS  /  AUTOMATION</text>
+<text class="s" x="46" y="148" font-size="56" font-weight="700" letter-spacing="-1.2" fill="#FFFFFF">Aaron Zajicek</text>
+<text class="s" x="48" y="190" font-size="19" fill="#FFFFFF" fill-opacity=".72">Founder &amp; AI Engineer at Byte-Sized Wisdom</text>
+<text class="m" x="48" y="247" font-size="16" fill="#FFFFFF" fill-opacity=".5">&gt;</text>
+<g class="ph ph0"><text class="m" x="67.2" y="247" font-size="16" fill="#7DD3FC" textLength="364.8" lengthAdjust="spacing">building agents that triage and report</text><g clip-path="url(#tz)"><g class="ov ov0"><rect x="66.2" y="228" width="440" height="28" fill="#000000"/><rect class="cur" x="68.2" y="232" width="9" height="19" fill="#7DD3FC"/></g></g></g><g class="ph ph1"><text class="m" x="67.2" y="247" font-size="16" fill="#7DD3FC" textLength="364.8" lengthAdjust="spacing">automating the busywork out of the day</text><g clip-path="url(#tz)"><g class="ov ov1"><rect x="66.2" y="228" width="440" height="28" fill="#000000"/><rect class="cur" x="68.2" y="232" width="9" height="19" fill="#7DD3FC"/></g></g></g><g class="ph ph2"><text class="m" x="67.2" y="247" font-size="16" fill="#7DD3FC" textLength="326.4" lengthAdjust="spacing">shipping tools people actually use</text><g clip-path="url(#tz)"><g class="ov ov2"><rect x="66.2" y="228" width="440" height="28" fill="#000000"/><rect class="cur" x="68.2" y="232" width="9" height="19" fill="#7DD3FC"/></g></g></g>
+
+</g>
+<rect x=".75" y=".75" width="878.5" height="298.5" rx="13.25" fill="none" stroke="#7DD3FC" stroke-opacity=".32" stroke-width="1.5"/>
+</svg>

@@ -1,139 +1,146 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              AARON ZAJICEK — PROFILE README           -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://aaronzajicek.com"><img src="assets/header.svg" width="100%" alt="Aaron Zajicek. AI systems and automation. Founder and AI Engineer at Byte-Sized Wisdom."></a>
+</p>
+
+<p align="center">
+  <a href="https://aaronzajicek.com"><img src="assets/links/portfolio.svg" height="34" alt="Portfolio"></a>
+  <a href="https://byte-sizedwisdom.com"><img src="assets/links/studio.svg" height="34" alt="Byte-Sized Wisdom"></a>
+  <a href="https://linkedin.com/in/aaronkeithzajicek"><img src="assets/links/linkedin.svg" height="34" alt="LinkedIn"></a>
+  <a href="https://www.upwork.com/freelancers/~01b56ee65fad4009fd"><img src="assets/links/upwork.svg" height="34" alt="Upwork"></a>
+  <a href="https://www.fiverr.com/users/aaron_zajicek"><img src="assets/links/fiverr.svg" height="34" alt="Fiverr"></a>
+</p>
+
+## AI and automation
+
+I'm Aaron, an AI-focused builder and software engineer in Katy, Texas. I run [Byte-Sized Wisdom](https://byte-sizedwisdom.com), a consulting studio where I fold large language models into real operations: agents that triage and report, automations that remove the busywork, and tools polished enough that people actually use them.
+
+I came up through IT help desk and security tooling, where a broken thing has to be fixed now. That is why I build systems to be reliable before they are clever.
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/main/banner.gif" alt="Aaron Zajicek — Portfolio.exe" width="100%" />
+  <img src="assets/pipeline.svg" width="100%" alt="How an automation runs: a trigger starts an agent, the agent takes action, and a person gets the report.">
+</div>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-aaronzajicek.com-0a2010?style=for-the-badge&labelColor=020b04)](https://aaronzajicek.com)
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-aaronkeithzajicek-001a25?style=for-the-badge&labelColor=020b04)](https://linkedin.com/in/aaronkeithzajicek)
-[![Upwork](https://img.shields.io/badge/◈_UPWORK-HIRE_ME-0a2010?style=for-the-badge&labelColor=020b04)](https://www.upwork.com/freelancers/~01b56ee65fad4009fd)
-[![Fiverr](https://img.shields.io/badge/◈_FIVERR-HIRE_ME-001a25?style=for-the-badge&labelColor=020b04)](https://www.fiverr.com/users/aaron_zajicek)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>AI agents</h3>
+      Agents and assistants that read, decide and act across your tools, with a person in the loop where it matters.
+      <br><br>
+      <code>LLM applications</code> <code>RAG</code> <code>MCP</code> <code>Prompt engineering</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Workflow automation</h3>
+      Pipelines that connect the apps and APIs a team already uses, so the repetitive work runs itself.
+      <br><br>
+      <code>n8n</code> <code>Python</code> <code>APIs</code> <code>Webhooks</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Product engineering</h3>
+      Dashboards, extensions and web apps that put the AI in front of the people who need it.
+      <br><br>
+      <code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Node.js</code>
+    </td>
+  </tr>
+</table>
 
-</div>
+## Side projects
 
----
+What I build on nights and weekends: games, security tools and hardware.
 
-## `$ cat whoami.txt`
+<table>
+  <tr>
+    <td valign="top">
+      <a href="https://glitchpong.com"><img src="assets/projects/glitchcade.svg" width="100%" alt="Glitchcade, home of Glitch Pong. Live at glitchpong.com."></a>
+      <a href="https://glitchpong.com"><img src="assets/screenshots/glitchcade.webp" width="100%" alt="Screenshot of the Glitchcade floor: a dark neon arcade hall lined with game cabinets."></a>
+      <br><br>
+      <b>A first-person 3D arcade that runs in the browser.</b> Walk the floor and play four finished cabinets: Glitch Pong, Breakpoint, Black-Hole Nexus and Signal Lost. There is online multiplayer, a prize counter, and a computer opponent built to play like a person: it reacts late, misjudges fast shots and can be tricked.
+      <br><br>
+      <code>JavaScript</code> <code>three.js</code> <code>Node.js</code> <code>Socket.IO</code> <code>WebRTC</code>
+      <br><br>
+      <a href="https://glitchpong.com"><b>Play it</b></a> &nbsp;·&nbsp; <a href="https://github.com/mrA2Z0101/Glitch-Pong-Website"><b>Code</b></a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/main/terminal.gif" alt="whoami terminal" width="100%" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mrA2Z0101/OFF-THE-HOOK"><img src="assets/projects/off-the-hook.svg" width="100%" alt="Off the Hook, a browser extension. Open source."></a>
+      <a href="https://github.com/mrA2Z0101/OFF-THE-HOOK"><img src="assets/screenshots/off-the-hook.webp" width="100%" alt="Screenshot of Off the Hook flagging a fake PayPal email as likely phishing, with the risky wording highlighted."></a>
+      <br><br>
+      <b>Phishing detection that lives in your inbox.</b> It reads the email you have open in Gmail or Outlook, highlights the giveaways and explains each one. More than 55 checks run in the browser, so your email never leaves your computer. An optional AI second opinion comes from a local Ollama model, any OpenAI-compatible API, or Anthropic.
+      <br><br>
+      <code>JavaScript</code> <code>Manifest V3</code> <code>LLM APIs</code>
+      <br><br>
+      <a href="https://github.com/mrA2Z0101/OFF-THE-HOOK"><b>Code</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/projects/bytesprawl.svg" width="100%" alt="ByteSprawl, a desktop app and game. In development.">
+      <img src="assets/screenshots/bytesprawl.webp" width="100%" alt="Screenshot of ByteSprawl: a neon city seen from above, with a live feed of events in its districts.">
+      <br><br>
+      <b>Your Windows disk drawn as a cyberpunk city.</b> Folders and big files become buildings you can walk and drive past, and the PC's health shapes the streets. Ask in plain English to free up space and a local Ollama model reads the request. Nothing is cleaned until you approve it.
+      <br><br>
+      <code>Python</code> <code>three.js</code> <code>Ollama</code>
+      <br><br>
+      Private repo for now
+    </td>
+  </tr>
+</table>
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/projects/git-achievements.svg" width="100%" alt="Git Achievements, a web app. In development.">
+      <img src="assets/screenshots/git-achievements.webp" width="100%" alt="Screenshot of the Git Achievements dashboard showing a 23-day streak, level progress and the next achievements.">
+      <br><br>
+      <b>Streaks, achievements and custom profiles for your GitHub account.</b> 59 achievements across five rarities, XP and levels, a leaderboard, and a streak card you can drop into a README.
+      <br><br>
+      <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Postgres</code>
+      <br><br>
+      Private repo for now
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/projects/the-back-shots.svg" width="100%" alt="The Back Shots, a 3D comedy horror game. Playable prototype.">
+      <img src="assets/screenshots/the-back-shots.webp" width="100%" alt="Screenshot of The Back Shots: a guest in a suit waits at the bar in a yellow Backrooms hallway, asking "Do you validate parking? I parked in a wall."">
+      <br><br>
+      <b>A first-person comedy horror bartending game set in the Backrooms.</b> The guests are not people, each of them has one rule, and so does the house. The prototype covers a seven-shift week with a debt to clear by Sunday.
+      <br><br>
+      <code>JavaScript</code> <code>three.js</code> <code>Vite</code>
+      <br><br>
+      Private repo for now
+    </td>
+  </tr>
+</table>
 
-## `$ ls ./skills/`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mrA2Z0101/Defendagotchi"><img src="assets/projects/defendagotchi.svg" width="100%" alt="Defendagotchi, ESP32 hardware. Open source."></a>
+      <a href="https://github.com/mrA2Z0101/Defendagotchi"><img src="assets/screenshots/defendagotchi.webp" width="100%" alt="Defendagotchi wiring diagram: an ESP32 board wired to the touchscreen."></a>
+      <br><br>
+      <b>A Tamagotchi-style Wi-Fi security companion.</b> It runs on an ESP32 with a touchscreen. Care for the pet to level it up and unlock scanners for deauth attacks, rogue access points, captive portals and weak encryption.
+      <br><br>
+      <code>ESP32</code> <code>C++</code> <code>Arduino</code>
+      <br><br>
+      <a href="https://github.com/mrA2Z0101/Defendagotchi"><b>Code</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mrA2Z0101/GhostProcess"><img src="assets/projects/ghostprocess.svg" width="100%" alt="GhostProcess, a security tool. Open source."></a>
+      <a href="https://github.com/mrA2Z0101/GhostProcess"><img src="assets/screenshots/ghostprocess.webp" width="100%" alt="Preview of the GhostProcess dashboard from its README: 247 processes scanned, 3 malicious, 12 unknown."></a>
+      <br><br>
+      <b>A process scanner that hunts for malicious executables hiding in memory.</b> It hashes every running process, checks each one against threat intelligence such as VirusTotal, and lets you quarantine what it flags.
+      <br><br>
+      <code>Python</code> <code>Tkinter</code> <code>VirusTotal</code>
+      <br><br>
+      <a href="https://github.com/mrA2Z0101/GhostProcess"><b>Code</b></a>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/main/skills.gif" alt="Skills" width="100%" />
-</div>
-
----
-
-## `$ ls ./projects/`
-
-### `// BROWSER EXTENSIONS`
-
-| ID | Project | Description | Status |
-|---|---|---|---|
-| `E-001` | **[PhishEye Recon](https://github.com/mrA2Z0101/PhishEye-Recon)** | Browser extension for detecting phishing, homograph attacks, and domain spoofing. Features risk scoring, brand impersonation detection, Unicode analysis, and optional VirusTotal & urlscan integration. | `● ACTIVE` |
-
----
-
-### `// APPS`
-
-| ID | App | Description | Status |
-|---|---|---|---|
-| `A-001` | **LogEye** | Log analyzer and threat detector that ingests Windows Security and Linux auth logs, normalizes events, and surfaces findings like brute-force attacks, suspicious logins, and privilege escalation. Exports to CSV and JSON. Free CLI + paid WPF desktop GUI. | `● DEPLOYED` |
-| `A-002` | **GhostProcess** | Real-time suspicious process scanner that enumerates all running processes, computes SHA-256 hashes, and queries VirusTotal to classify each as clean, malicious, or unknown. Features a tabbed Tkinter GUI with KPI dashboard cards, risk scoring, and persistent settings. | `● ACTIVE` |
-| `A-003` | **Cipher Sentinel** | Advanced password strength analyzer with offline SHA-1 breach hash detection (HIBP-compatible), keyboard-walk sequence detection, entropy scoring, and 10 switchable themes including SOC Nightfall, Matrix Protocol, and Cyber Neon. | `● DEPLOYED` |
-
----
-
-### `// HARDWARE`
-
-| ID | Project | Description | Status |
-|---|---|---|---|
-| `H-001` | **[Defendagotchi](https://github.com/mrA2Z0101/Defendagotchi)** | Tamagotchi-style ESP32 cybersecurity companion with ILI9341 touchscreen. Runs real-time Wi-Fi threat scans — detecting rogue APs, deauth attacks, captive portals, and weak encryption. | `● ACTIVE` |
-| `H-002` | **[PandaFense](https://github.com/mrA2Z0101/Pandafense-Cybersecurity-Tool)** | Handheld ESP32 defense tool with OLED UI, CC1101 Sub-GHz RF module, 14 Wi-Fi detectors, 10 BLE detectors, honeypot modules, and a live WebSocket WebUI at `pandafense.local`. | `● ACTIVE` |
-
----
-
-### `// SCRIPTS — CYBERSECURITY`
-
-```python
-# Simple, practical security scripts. No bloat.
-```
-
-| Script | What It Does |
-|---|---|
-| `email_analyzer.py` | SPF / DKIM / DMARC parsing, hop tracing, spoofing detection — accepts `.eml` files or stdin |
-| `port_scanner.py` | TCP/UDP scanner with banner grabbing & service fingerprinting — zero dependencies, pure stdlib |
-| `ssl_inspector.py` | SSL/TLS cert inspector — expiry, cipher suites, chain validation, JSON output |
-
----
-
-### `// SCRIPTS — IT`
-
-| Script | What It Does |
-|---|---|
-| `backup_tool.py` | Compress → upload to S3/Backblaze B2 → rotate old backups on a schedule |
-| `disk_reporter.py` | Top disk offenders, duplicate/old file detection, email alerts — zero dependencies |
-| `health_monitor.py` | Service uptime monitor — SQLite logging, Slack & email alerts on failure/recovery |
-| `net_pinger.py` | CIDR sweep pinger — ICMP/TCP probing, latency stats, hostname resolution, watch mode |
-| `sys_inventory.py` | System snapshot — CPU, RAM, OS, disk, network, processes, software — JSON/CSV export |
-
----
-
-### `// GAMES`
-
-| ID | Project | Description | Status |
-|---|---|---|---|
-| `G-001` | **[Glitch Pong](https://glitchpong.com)** | A glitchy cyberpunk Pong remake where the ball is sentient and actively works against you. Not just the paddle — the ball itself is your enemy. Neon visuals, dystopian vibe. | `● ACTIVE` |
-
----
-
-## `$ cat stats.log`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrA2Z0101&show_icons=true&theme=chartreuse-dark&bg_color=020b04&border_color=00ff41&title_color=00ff41&icon_color=00e5ff&text_color=5ddd88&hide_border=false" width="65%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrA2Z0101&theme=dark&background=020b04&border=00ff41&ring=00ff41&fire=ff006e&currStreakNum=00e5ff&sideNums=5ddd88&currStreakLabel=00ff41&sideLabels=5ddd88&dates=5ddd88" width="65%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrA2Z0101&layout=compact&theme=chartreuse-dark&bg_color=020b04&border_color=00ff41&title_color=00ff41&text_color=5ddd88" width="50%" />
-
-</div>
-
----
-
-## `$ cat contact.txt`
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mrA2Z0101/mrA2Z0101/main/contact.gif" alt="Contact info terminal" width="100%" />
-</div>
-
----
-
-### `// ETSY STORES`
-
-[![ArtisticZebra](https://img.shields.io/badge/🟢_ArtisticZebra_Digital-ETSY-020b04?style=flat-square&labelColor=051505)](https://www.etsy.com/shop/ArtisticZebraDigital)
-[![Rebel](https://img.shields.io/badge/🔵_Rebel_Against_The_Flesh-ETSY-020b04?style=flat-square&labelColor=001a25)](https://www.etsy.com/shop/RebelAgainstTheFlesh)
-[![ByteSized](https://img.shields.io/badge/🟡_ByteSized_Wisdom-ETSY-020b04?style=flat-square&labelColor=151200)](https://www.etsy.com/shop/ByteSizedWisdom)
-
----
+<br>
 
 <div align="center">
-
-`// END OF FILE — SYSTEM ONLINE — UPTIME: 99.97%`
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mrA2Z0101&color=020b04&style=flat-square&label=PROFILE+VIEWS&labelColor=0a1a0a)
-
+  <a href="https://aaronzajicek.com"><img src="assets/footer.svg" width="100%" alt="Let's build something intelligent. Tell me what you're trying to automate, ship, or rethink at aaronzajicek.com."></a>
 </div>
